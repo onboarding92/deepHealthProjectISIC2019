@@ -24,9 +24,9 @@ Validation data size is 911 and pretrained model base model is xception-134-tria
 ### Accuracy and Loss
 
 ![loss](images/trainingvalidation.png)
-![accuracy](images/trainingvalidationcataccuracy.png)
+![accuracy](images/trainingvalidatiocataccuracy.png)
 ![accuracy](images/trainingvalidatiotop2accuracy.png)
-![accuracy](images/trainingvalidationtop3accuracy.png)
+![accuracy](images/trainingvalidatiotop3accuracy.png)
 
 
 ### Classification Report
