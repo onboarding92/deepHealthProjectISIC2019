@@ -1,9 +1,9 @@
 # deepHealthProjectISIC2019
-Implementation  for ISIC 2019 challenge 
+Implementation for ISIC 2019 challenge 
 
 # ISIC-2019
 
-This repository consists of the code I used to create my submission file for [ISIC-2019 Challenge](https://challenge2019.isic-archive.com/).
+This repository consists of the code I used to create my submission file for [ISIC-2019 Challenge](https://challenge2019.isic-archive.com/data.html).
 
 ## Data
 
