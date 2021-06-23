@@ -35,7 +35,7 @@ Validation data size is 911 and pretrained model base model is xception-134-tria
 
 ### Confusion Matrix
 
-![confusionMatrix](images/confusionmatrix.png)
+[confusionMatrix](images/confusionmatrix.png)
 
 
 ## Contributors
